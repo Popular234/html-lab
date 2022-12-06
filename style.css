@@ -1,0 +1,14 @@
+body{
+    background-color: #46F0E5;
+}
+header{
+    padding-left: 40%;
+    color: #A3400F;
+}
+a{
+    padding-left: 10%;
+}
+p{
+    width: 80%;
+    display: inline-block;
+}
